@@ -1,6 +1,6 @@
 # PageRank
 
-This repo contains files that implement a basic model of Google's famous PageRank algorithm for assigning scores to webpages in the internet, which is then used to rank pages in the search engine results. 
+This repo contains files that implement a basic model of Google's famous PageRank algorithm for assigning scores to webpages in the internet to determine the page's importance relative to the other pages. 
 
 ![PageRank Algorithm](https://github.com/charleyjzhao/pagerank/blob/master/pagerank_algorithm.png)
 
