@@ -2,6 +2,7 @@
 
 This repo contains files that implement a basic model of Google's famous PageRank algorithm for assigning scores to webpages in the internet, which is then used to rank pages in the search engine results. 
 
+![PageRank Algorithm](https://github.com/charleyjzhao/pagerank/blob/master/pagerank_algorithm.png)
 
 
 I have implemented PageRank in three different paradigms:
